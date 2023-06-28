@@ -1,2 +1,2 @@
 # Air-quality-data-visualisation-platform
-A visualisation platform has been built to view a visual display of Shanghai's air quality data from 2017 to 2022, as well as a visual display of the uploaded data.
+A visualisation platform has been built using the Streamlit library. It is possible to view visual displays of air quality data and weather data for Shanghai from 2017 to 2022, as well as visual displays of uploaded data.
